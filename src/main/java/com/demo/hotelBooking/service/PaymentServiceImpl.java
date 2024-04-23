@@ -1,4 +1,8 @@
 package com.demo.hotelBooking.service;
 
-public class PaymentServiceImpl {
+import com.demo.hotelBooking.serviceInterface.PaymentService;
+import org.springframework.stereotype.Service;
+
+@Service
+public class PaymentServiceImpl implements PaymentService {
 }
