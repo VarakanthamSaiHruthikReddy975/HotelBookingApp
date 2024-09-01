@@ -30,6 +30,4 @@ public class HotelController {
         Optional<Hotel> addedHotel = hotelService.addHotel(hotel);
         return ResponseEntity.ok(addedHotel);
     }
-
-
 }
