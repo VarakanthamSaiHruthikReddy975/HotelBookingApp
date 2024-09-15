@@ -1,9 +1,7 @@
 package com.demo.hotelBooking.dto;
 
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 import java.util.Objects;
 
